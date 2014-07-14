@@ -26,7 +26,7 @@ div,h1,h2,p,span,img,a { margin:0; padding:0; list-style:none; border:0; text-de
 .rightpanel span { width:550px; float:left; font-family:Tahoma, Arial, Helvetica, sans-serif; font-size:22px; font-weight:normal; color:#0096ff; }
 .rightpanel ul { width:525px; float:right; margin:0; padding:0; }
 .rightpanel ul li { width:525px; float:left; margin:0; padding:10px 0 0 0; list-style:decimal; font-family:Tahoma, Arial, Helvetica, sans-serif; font-size:16px; font-weight:normal; color:#969696; }
-.rightpanel p { width:auto; display:compact; padding:12px 0 0 0; font-family:Arial, Helvetica, sans-serif; font-size:18px; font-weight:normal; color:#4c4c4c; }
+.rightpanel p { width:auto; display:compact; padding:12px 0 0 0; font-family:Arial, Helvetica, sans-serif; font-size:16px; font-weight:normal; color:#4c4c4c; }
 .rightpanel img { float:left; margin:16px 10px 10px 0; padding:0; }
 .contact { width:150px; height:61px; position:absolute; right:0; top:-130px; }
 
