@@ -10,7 +10,7 @@ div,h1,h2,p,span,img,a { margin:0; padding:0; list-style:none; border:0; text-de
 #wrap { width:950px; margin:0 auto; background:url(./border.png) repeat-y; overflow:hidden; }
 
 /*======== Header Section ========*/
-#header { width:950px; height:270px; float:left; background:url(./images/header_bg.jpg) no-repeat; }
+#header { width:950px; height:270px; float:left; background:url(./header.png) no-repeat; }
 .logo { width:auto; float:left; margin:20px 0 0 19px; padding:0; }
 
 /*======== Bodycontainer Section ========*/
