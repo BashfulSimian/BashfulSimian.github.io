@@ -14,6 +14,10 @@ div,h1,h2,p,span,img,a { margin:0; padding:0; list-style:none; border:0; text-de
 .logo { width:auto; float:left; margin:20px 0 0 19px; padding:0; }
 
 /*======== Bodycontainer Section ========*/
+a:link { 
+color: :#4c4c4c;
+text-decoration:none; 
+} 
 #bodycontainer { width:904px; float:left; padding:0 23px 0 23px; }
 .leftpanel { width:310px; float:left; }
 .leftpanel h1 { width:310px; float:left; font-family:Helvetica, Arial, sans-serif;; font-size:21px; font-weight:bold; color:#5a5a5a; }
