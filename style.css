@@ -32,8 +32,8 @@ div,h1,h2,p,span,img,a { margin:0; padding:0; list-style:none; border:0; text-de
 .contact { width:150px; height:61px; position:absolute; right:0; top:-130px; }
 
 .contactus { width:904px; float:left; position:relative; }
-.contactus h1 { width:694px; float:left; padding:0 0 0 210px; font-family:Helvetica, Arial, sans-serif;; font-size:30px; font-weight:bold; color:#5a5a5a; }
-.backlink { width:auto; position:absolute; top:-90px; right:0; }
+.contactus h1 { width:694px; float:left; padding:0 0 0 230px; font-family:Helvetica, Arial, sans-serif;; font-size:30px; font-weight:bold; color:#5a5a5a; }
+.backlink { width:auto; position:absolute; top:-100px; right:0; }
 .backlink a { text-decoration:underline; font-family:Helvetica, Arial, sans-serif;; font-size:21px; font-weight:bold; color:#5a5a5a; }
 .backlink a:hover { text-decoration:none; }
 
