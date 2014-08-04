@@ -1,7 +1,7 @@
 
 body { margin:0; padding:0; background:url(./psychedelic_pattern.png); }
 
-div,h1,h2,p,span,img,a { margin:0; padding:0; list-style:none; border:0; text-decoration:none; outline:none; }
+div,h1,h2,p1,p2,span,img,a { margin:0; padding:0; list-style:none; border:0; text-decoration:none; outline:none; }
 
 .fleft { float:left; margin:0 0 15px 0; padding:0; }
 .fright { float:right; margin:0; padding:0; }
@@ -24,7 +24,8 @@ a.mail-link:active{   color: #4c4c4c;   text-decoration: none;}
 .leftpanel h1 { width:310px; float:left; font-family:Helvetica, Arial, sans-serif;; font-size:21px; font-weight:bold; color:#5a5a5a; }
 .leftpanel h2 { width:310px; float:left; padding:10px 0 1px 0; font-family:Helvetica, Arial, sans-serif;; font-size:21px; font-weight:bold; color:#5a5a8a; }
 .leftpanel span { width:310px; float:left; padding:5px 0 10px 0; font-family:Helvetica, Arial, sans-serif;; font-size:20px; font-weight:normal; color:#0096ff; }
-.leftpanel p { width:310px; float:left; padding:10px 0 10px 0; font-family:"Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif; font-style:italic; font-size:19px; font-weight:normal; color:#4c4c4c; }
+.leftpanel p1 { width:310px; float:left; padding:10px 0 10px 0; font-family:"Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;; font-style:italic; font-size:19px; font-weight:normal; color:#4c4c4c; }
+.leftpanel p2 { width:310px; float:left; padding:10px 0 10px 0; font-family:Helvetica, Arial, sans-serif;; font-style:italic; font-size:20px; font-weight:normal; color:#4c4c4c; }
 
 .rightpanel { width:550px; float:right; position:relative; }
 .rightpanel h1{ width:550px; display:table; padding:0; font-family:Helvetica, Arial, sans-serif;; font-size:30px; font-weight:bold; color:#5a5a5a; }
